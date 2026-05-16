@@ -4,6 +4,10 @@ This practice pack is organized around the Qiskit v2.x certification topics for 
 
 ## Files
 
+- `00_Environment_Validation.py`
+  - Python version and platform checks
+  - Dependency validation against the project `requirements.txt`
+  - Core Qiskit/scientific library import checks and an Aer simulator smoke test
 - `1_Pauli_Operators.py`
   - Multi-qubit Pauli strings
   - Matrix construction with tensor products
@@ -45,6 +49,7 @@ pip install -r requirements.txt
 From the `section_1_perform_quantum_operations` folder:
 
 ```bash
+python 00_Environment_Validation.py
 python 1_Pauli_Operators.py
 python 2_1_Standard_Gates.py
 python 2_2_Advanced_Circuits.py
