@@ -25,6 +25,6 @@ Open the notebooks in VS Code or Jupyter and work through each section in order.
 ## Status
 
 - Section 1 is populated with scripts and notebooks.
-- Section 2 is populated with visualization notebooks.
-- Section 3 is populated with circuit-creation notebooks.
-- Section 4 is populated with transpilation and execution notebooks.
+- Section 2 is wp
+- Section 3 is wp
+- Section 4 is wp
